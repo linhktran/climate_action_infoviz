@@ -1,0 +1,6 @@
+Sector,unit,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+Energy,MtCO2e,18.19,18.43,19.01,22.37,24.60,28.83,32.16,37.37,41.28,41.91,45.55,50.12,58.20,61.51,74.73,80.36,82.59,91.05,102.20,113.03,127.62,127.68,127.27,133.85,147.84,167.00,185.71,187.64,237.44,285.50,295.59,282.11
+Industrial Processes,MtCO2e,1.12,1.33,1.77,1.85,2.06,2.54,2.85,3.45,4.17,4.46,5.63,6.57,8.27,9.37,10.30,11.98,12.26,14.06,15.36,19.24,23.77,28.22,28.12,30.32,32.69,34.30,36.82,42.74,49.64,56.54,60.07,62.07
+Agriculture,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Waste,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Land-Use Change and Forestry,MtCO2e,-73.58,-73.58,-73.58,-73.58,-73.58,-73.56,-73.60,-73.67,-73.50,-73.54,-73.60,16.87,19.19,16.88,17.39,17.32,16.87,16.91,16.87,16.91,17.10,-23.78,-23.81,-21.77,-23.18,-23.81,-13.46,-13.52,-13.51,-13.50,-13.10,-13.49
